@@ -1,18 +1,639 @@
 {
   "channel": "xpangya-custom-v1",
-  "version": "1.0.2",
-  "notes": "T\u1ef1 ki\u1ec3m tra khi m\u1edf calculator; th\u00f4ng b\u00e1o b\u1ea3n m\u1edbi v\u00e0 n\u1ed9i dung thay \u0111\u1ed5i. Kh\u00f4ng c\u1ea7n token ho\u1eb7c \u0111\u0103ng nh\u1eadp.",
+  "version": "1.0.3",
+  "notes": "Th\u00eam Wiz City 320+8: 39 pin, 88 \u1ea3nh ghi ch\u00fa s\u00e2n. T\u1ea1m kh\u00f3a c\u00e1c d\u00f2ng l\u1ed7i ngu\u1ed3n \u1edf H1-459 v\u00e0 v\u00f9ng g\u00f3c \u0111\u1ea3o th\u1ee9 t\u1ef1 \u1edf H15-548.",
   "parts": [
     {
-      "path": "updates/packages/1.0.2.part001.bin",
-      "size": 13185,
-      "sha256": "76b0aa041de6f1d138334b77580534a58f888bb5d76ae425b66a535d68cf367b"
+      "path": "updates/packages/1.0.3.part001.bin",
+      "sha256": "2649e13779141bddf51179fc86ee8fb68bdd1b11a5a15018ad85e2581426ef98",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part002.bin",
+      "sha256": "1a3d57b4e2c0c7af34952b230a5f486e40cd4317efd116f68962077b6203ca54",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part003.bin",
+      "sha256": "9cb7677f9103d5f5a95311613e2d0a30ac586ca28e8398a2d1cdcf7a857d9793",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part004.bin",
+      "sha256": "ce4ff3282025a403dbb51476a4221729d82b86d6a1fabcf3a3e582f47e22e26b",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part005.bin",
+      "sha256": "20dbdbe4e02781253d525b32c76de27f9fcc7fa11fdb903c05e81830ddff6352",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part006.bin",
+      "sha256": "12f5cd2415ab8c3f2d4501534de1b12f919e216fa0e0e75cc14e044ab7e28f17",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part007.bin",
+      "sha256": "e506dfb8ff514af6a309bef1190f43b99931251808edc07a5a9f36d0c4dc66c4",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part008.bin",
+      "sha256": "c00ca0ec3a59e318ecd6d195b0fef276d1cbc0cc8bfd3f7a54212ee1ccc31d53",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part009.bin",
+      "sha256": "735b13bed6b750cb4b8a19ebc8d9287de58330f5ce6317dd062b5039a6c3b601",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part010.bin",
+      "sha256": "43a48c3eb5da83434beb8b13bfc460b9596b734a1f93179bb08624353e61d9ad",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part011.bin",
+      "sha256": "ccfb9f42e864da236a17a98bf12f2cf83225837b4c2dd6635022f039ed2a8ef4",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part012.bin",
+      "sha256": "154dd86e493b7da0ee998c2c05c3c1e242ef7de42c6139425d2cf4f6027d06f7",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part013.bin",
+      "sha256": "591e422c39cd8767ef62ec44c31eb2a927d189592d4a0ec21a22e48d89b9b90b",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part014.bin",
+      "sha256": "f343d092e0cb097f48312292982a7b439f7210540945c47f933ad072594d976b",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part015.bin",
+      "sha256": "dc0dfe4ba3913e4998f1c1faab1c52ad29058d64bd7223abbaf22dd9251ef3d2",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part016.bin",
+      "sha256": "f715b538c0cfe47e9d0756ada088cd6fe02c8e769f640f79cf308f0a81117846",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part017.bin",
+      "sha256": "960d6116b5f0a8690550669a7cda3e86f4cd3e0dead050e509dcd1a0d420c09e",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part018.bin",
+      "sha256": "7dd1e095e7952b18ad795a11c3570df750a676c995c7d2d24e1afb9a629b7cca",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part019.bin",
+      "sha256": "59ebe4be10077242507f5a78e92227833d0fc7d4793b9f629286b103c545a7a0",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part020.bin",
+      "sha256": "c1e3782554aec8be90f16adb7a831a64b547a32ac5042b88b44aa08f15a06d77",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part021.bin",
+      "sha256": "331590788b45d6a9400477f4041c0a319a719b47ec29bcdb61d0e183feffb4a3",
+      "size": 4194304
+    },
+    {
+      "path": "updates/packages/1.0.3.part022.bin",
+      "sha256": "bf50da8a984a0b4050a9eca09a1b29947d605d69a10c64559be9c99a9a84e064",
+      "size": 1211633
     }
   ],
   "files": [
     {
-      "path": "xPangYa.CustomUpdate.exe",
-      "sha256": "1cdfaa0115597b31bd452b0d842c43a76c4116949d858989e0a633b2169e3da7"
+      "path": "HIO-data/catalog-local-wiz-city-320-l8.json",
+      "sha256": "c01bacace8af13dcaf252984ab6f8553b4b033cf90b94f36a3b791f5db691bf5"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1001.json",
+      "sha256": "95d0b7ce055dec1e143f14a5c09870ec664c5835e792cddd77dc3f0962a47b23"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1002.json",
+      "sha256": "29440bc3550c46e3e740e38ffbb3623b0a01a6998029d4940562514706ef6d32"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1003.json",
+      "sha256": "5bd8e6e3189562131dcd58e9184f69d5c41336d668632902e5ba890da2b0c07e"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1004.json",
+      "sha256": "ba92498ec9b45086059183badf5d8aed01f793620b5b96e83d7efef6104c48c8"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1005.json",
+      "sha256": "1b3403cb78ed8a2daac78c8da83cf83e37ba6f79b321206b0d541c365bf25954"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1006.json",
+      "sha256": "d9fcb39635c4c45c5d1e9512fd3a2181857103be5d37562e6ffea7e9abf881cb"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1007.json",
+      "sha256": "3936cf05d20bc77672ac6e97d718791f838b498eda76ce8c028cfa593445bdc2"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1008.json",
+      "sha256": "e8f916f0814a05cc5e76dd6e2ae512f3f28f0ce6e5a0213b52c0cc119ea40bb6"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1009.json",
+      "sha256": "967f5e7379a33bcd04753dd791f2f5b8a9252739e5be9d696a7f3a3d3b582345"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1010.json",
+      "sha256": "fdbe3483c267291286e7473cc2303c723260441d35588a2be595ce6f0f9f77c6"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1011.json",
+      "sha256": "36b65a1e2c56a562db85a546a68fa4b2f7af691c8cb62000f245dca97d9442ac"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1012.json",
+      "sha256": "3c372a0520f2c1c3cf46b4dce2978cd8766b1dfbad2a7c9cde44f6de9cd0dcc1"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1013.json",
+      "sha256": "ad6ff0fdd99003e40ca6c8901c98557a8259fcc30f5431aba57f63e518347481"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1014.json",
+      "sha256": "f294d183561787652417fe138993920c5b00509406db2277c772892351116bbc"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1015.json",
+      "sha256": "ecc8dfaed450c83a007180a5cf0d1701d9ffaad9e1dfc9b035b98c37933bb4be"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1016.json",
+      "sha256": "8a4491fe40151cc3e6c0e7b9c98c3d77564245d81c80deb7011a3125631e5574"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1017.json",
+      "sha256": "5630657e3d3aec4541ab4b2284247879189fbffc011d62a5b47df7039f77bc5a"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1018.json",
+      "sha256": "6e1349a8402ee67bac7c587d4ccc86fe719d7690573de92bbbdbe303aff592b7"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1019.json",
+      "sha256": "c688d2bdf6dfdc14dfb176a003ed54bff88f1e18f246fb8f08a74f7ac611f878"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1020.json",
+      "sha256": "e77e2b7598ded5d79df63d9e9767bd868250b24ad3bee186a29036a028743c92"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1021.json",
+      "sha256": "a1cae11854dbaa982089f09fbfb8d664c7544c8de41e5b6b49ac62e0ca6bfc15"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1022.json",
+      "sha256": "163baf48f369efb3d118c689b56aaf2eac7e21f76822a5f598ee25a276757d1c"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1023.json",
+      "sha256": "01ba996e955d9227d301ccdcc616f7fe882261c218a7e1f1f60abbe9ed89da9b"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1024.json",
+      "sha256": "fee83cbbd6291afdd71e97c3ed3c55881ebdf2c74447af57856312edd30174bb"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1025.json",
+      "sha256": "f8069150cf2ec6dda430533659c2f1ebfe3442d70c4a1c78ab4777f818fdd433"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1026.json",
+      "sha256": "ab3a1e584cffa9f5960c16288c5c380406ba5ec94c3700ff6077d394120cb464"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1027.json",
+      "sha256": "d270312ea728fcdd220e8e313cb1244bd5a779cc0878a03ee79897d1fa72399a"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1028.json",
+      "sha256": "23182212535f15071772758b70b31f1c5e464d59bb02029635e0c55d288fda29"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1029.json",
+      "sha256": "5fd1159aa46116ffbf5efbea9d62ea2f5717ee22b969002aaaef892bf0571b65"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1030.json",
+      "sha256": "5f123ce6373cda778c627372319565e42e9258fa705f3096ba51ea7e6f923097"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1031.json",
+      "sha256": "2026589ab052695852db57676e0de06ea83fc24862189bdac0d8113ac62551f8"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1032.json",
+      "sha256": "0f79c9dc08c5e840ae8c11f548037ec7972ce2929b3689eeb2e887d9fd9645d9"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1033.json",
+      "sha256": "968461a94f204544d43ff3d992e5f63d4ae033531209b51c92aabc3adda839c1"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1034.json",
+      "sha256": "9f3d2321732c2b57e847a4f969e9e7286d844f39195d4201a8bdc84e77d2b107"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1035.json",
+      "sha256": "d0aaa9450918fec3ff8a2e70c4e8ae654bca63fa7611da263f2871172921f27f"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1036.json",
+      "sha256": "b713e0f93ef7c1ce7e70457159ce80e384cda33e74e3ffc32a1f9ce23b7c06b0"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1037.json",
+      "sha256": "1c1d8944eda1215b7f6780ad61501bfdc2fe8f00193d1c8ca74318ef388710dc"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1038.json",
+      "sha256": "bc725be171930cc5285cab68851b7feeed9ea8c4e07d309d0c06649992f7dcc7"
+    },
+    {
+      "path": "HIO-data/details-c900007-h1039.json",
+      "sha256": "f4389791b103183b49e6d4f31854e8def112eba56ae1f1454d8702ddafaa7654"
+    },
+    {
+      "path": "HIO-data/holes-c900007.json",
+      "sha256": "2fad9eb43e0102876fd1f7dc5607a2c705a7ae83cb437b2b05062b4392bc095c"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h1-459-1.png",
+      "sha256": "0c13bee50ea826ef9e8915e881b25fa737d2b0f5147e069644d7a31c167e2a51"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h1-459-2.png",
+      "sha256": "737c18e9dcdf07e4550871a79e45794b51ac3cf6aeeeefb82310b784fdebd41d"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h1-459-3.png",
+      "sha256": "5f7c39bbfd5ecf14119cf226e676e12923a590366d2ccece84d19cd022f3879a"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h1-480-1.png",
+      "sha256": "084db16efd4b84a89d906a4aae04ed582218cb207dd73c9ef90c2936937e4001"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h1-480-2.png",
+      "sha256": "6b4105ed93b5f27ec1a6a578b7fe818fb9e8039553789a5a6a67b30980ca560d"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h1-486-1.png",
+      "sha256": "8bb38ea14dc4072e612a04a0c2181d08d151058f9e697c7e4b2e2acdd835c917"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-431-1.png",
+      "sha256": "580e66bf9a42fd76b0eef814631370955c1c6fa4e2f74673648c1cdfbea82b43"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-431-2.png",
+      "sha256": "3a2ab369fb7f3c168e0e96d3feb66e28d77be02b57c756071ecb6142e26aee70"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-431-3.png",
+      "sha256": "2ea121bc385675b33dda42c989e38af7f795e654cda4315c4d0f8e8098ed2ad8"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-438-1.png",
+      "sha256": "94f73e76bd14f5811cb9b1916d5f16697a7193ae09be7dae0f3adca7509dc3c5"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-438-2.png",
+      "sha256": "072f92b81ea28556bfab56244825ee4e7adc2a01c32333c871a9ec6c9228793a"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-438-3.png",
+      "sha256": "d4c652b7841cf762346f085b6354c572623a8a07b95dfe3be7143d515fa5d4f4"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-444-1.png",
+      "sha256": "df86469ef43a4ba630f079e1dfb57141397e1fb681f60018f1850055990f7fc0"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-444-2.png",
+      "sha256": "a144acd2654357fd37b4c80af42db9b36aeb5e3f70612507726c51e6a81d369f"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h11-444-3.png",
+      "sha256": "9c57182a3a53edd3882d2dbf35bf124e2f2099430c8db237142c0bee8c83cece"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h12-530-1.png",
+      "sha256": "d506915b854c40630a51ad4d434b18124e2945b4cb5af78f5d282240dea2b4d5"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h12-530-2.png",
+      "sha256": "a3b28acc56899b42935352e755b177b9873afa9ad19bfc297217f92ee1953ff1"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h12-530-3.png",
+      "sha256": "e9af6ce20a58031928858213ae232e189d7b5196ad05b72d8785cb300856bf80"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h13-223-1.png",
+      "sha256": "11f884704b7cf2d74082419e1c6d3b5558928894183bad23f3da807b68f47954"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h13-242-1.png",
+      "sha256": "21dadec9c6758e582f9ebb3a4ab4da724168be8fac8c9a68cd4c7a01f0667750"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h13-242-2.png",
+      "sha256": "b0a2c275ddc5bde511590c42c06f563601d335b4566fead8c1778af561853370"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h13-242-3.png",
+      "sha256": "6fff35a1b6871305c9a4fb097564c7c348665f8afc9aeab4c32455cc66933768"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h13-248-1.png",
+      "sha256": "e0464b33ea040a32ad8518044b3471cd64950ec27a7c7a7a82331ec77eae5054"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-436-1.png",
+      "sha256": "3867cb3910ae24d37a3b48f2e23ab2233b37b556773b17c15371031c2bae57b1"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-436-2.png",
+      "sha256": "cf99bef497640dab8b64692a9c176ed848066bfb485e9b1b91d3c3f91d9f27fb"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-438-1.png",
+      "sha256": "7c767415d5a0c1a10033dea9c6da0ce67fbd8eb6a990a72c6a8ff31cb5f3c981"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-438-2.png",
+      "sha256": "7ce8d365d7464f06b5fb4572aad0bf1e7703ae15a8438d9c9735bea6603da135"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-453-1.png",
+      "sha256": "67dd3f2d3eb6330ac1f1104be53e0eaa650ee8df035871aab5da655b78b84cc4"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-453-2.png",
+      "sha256": "02efa315c3628260acd98351df3a9c8406e766fabd42bc4cc60f6b651718a0c1"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h14-453-3.png",
+      "sha256": "886ac31605ec2af8c41c835e8336a7391c3fd60c48939da7458c0721a54c65fa"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-548-1.png",
+      "sha256": "13bfb95b9de56e07f7e4d9a9e2274b3562c56bb42de15a89c10fc58d07f8559a"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-548-2.png",
+      "sha256": "7afdc84c3d438f1f80bbd7e52f9f1fb1b1c41793f7d91cde5ed13953deaddcb4"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-551-1.png",
+      "sha256": "e529ac0b07cbcb5f731f87bf7fd9dcf96b4f76c9cb1e330b143657d14355badf"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-551-2.png",
+      "sha256": "5ac333f1aa031030a4a88668a4b3a7a2be6627d0f69a6c3bc18128fdce283c63"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-551-3.png",
+      "sha256": "50d4bc1115779156afbc832bbe3c66e4152e9c3fe7b996e0bd491e89924d68e5"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-561-1.png",
+      "sha256": "5eb9f8b26d65b5cb3072ecb4a675c64de9949f19d62f86f392744a0cdc45f3d0"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-561-2.png",
+      "sha256": "9e1281ecc81390f74f90254e7314d45629425b3bef4c4b86458807a451311ea7"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h15-561-3.png",
+      "sha256": "01f51a03ded835be6c8f5fe6b3deb87d134aa55d05d6e8a7819f769c5ccbc607"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h17-386-1.png",
+      "sha256": "7ab37c70455a6a53ae0469f52902551d7dbaf211f2b67ea4211f6f836eaa03f6"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h17-386-2.png",
+      "sha256": "c15d5074fb90dc252ec11914cf7ba6246e0225aef40b2f166a9acd8b5fc13485"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h17-400-1.png",
+      "sha256": "a3b0b666bdfa84d35b0c3275c0120b27086d8f6dcac68cec4a1feea51b7baf42"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h17-411-1.png",
+      "sha256": "f4a2d79e9c32bc0606f37604114616d5f2bcd8537038fde6e636b2c5136fd251"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h17-411-2.png",
+      "sha256": "20e1ec5b49144937d0c92e403cda3645dab9e48ef7b0d55db48e02df293c4411"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h17-411-3.png",
+      "sha256": "c888706a0b51ebd507a19cefd54d201b60891507fb60cf090ed952e4abb7552d"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h18-428-1.png",
+      "sha256": "0521de9408340b73170c68b2a9d05522a785e1e44754f5dfbe239250630461a9"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h18-428-2.png",
+      "sha256": "f57d35091110d8d33338a4f99f0cd66d8ee4e99ff37a893c99586dd6093354f0"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h18-428-3.png",
+      "sha256": "64074e8648928cba2671709b0b5485b7df91af99bb88d364285cd4d52184ae67"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h18-432-1.png",
+      "sha256": "222655cffb42e417816a8c8732dd1342073ac8279351ccb7c7cb2ab7835bb203"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h18-443-1.png",
+      "sha256": "ffb7e001eb72ed2bc80247a3e32abd28bb090e386ffb6fdc0495bd5a8e308f80"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-491l-1.png",
+      "sha256": "bcfdbf557d64934d27952f03120adb1e95f1a0fd08372cb337c12fbc8d1b68e3"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-491l-2.png",
+      "sha256": "3e49d0f82d913fb2e7b9654c8cf3d92b12537f661fa76635e2ba3d625d24a72f"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-491l-3.png",
+      "sha256": "d7410d47646f6aafb9d885d5f523b298c54c4a20c9179866cab480288153aa23"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-491r-1.png",
+      "sha256": "6002298458fd3a696f04337ccd43823fb39157405c11a1ba3a8029b660f891e5"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-491r-2.png",
+      "sha256": "7de453b468115041cbb6be8c3ce7de36e2da0df40f9296f585f1c8b8932d68fb"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-491r-3.png",
+      "sha256": "788154e16042ae79c8f0e19525207b8c1b0876b71faa9014cd3250a61d4e50b4"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h3-501-1.png",
+      "sha256": "d743af8b7a5a0c67af26cdf7a472abd9028f0c0bc49fb329c6f2cad7b292b387"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-416-1.png",
+      "sha256": "74d413e36be7a465c22b3847e07bc944675962a8664d553fd7fd5bf131001edd"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-416-2.png",
+      "sha256": "cd558d82bfe403f46df9cb9d7ce1918e5fd2c32a72f8e1f26d025aaedc9bd6e7"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-416-3.png",
+      "sha256": "49a0babdc7bf513f0bc5d2f7ff5f731fe527b426b6a10288d935ce639ede3ed9"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-434-1.png",
+      "sha256": "6be06be4cf462a800f20039840741cd045907039ee08ed95cdfe719e741e33a4"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-434-2.png",
+      "sha256": "702f134effb80e57d38421e8cf90e2f748d06a44c9eb65bf746eb0a232341e6b"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-434-3.png",
+      "sha256": "094eaea0b1851592764506a61a3593d41870a511881341262fe1da7244a0cead"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-438-1.png",
+      "sha256": "d589c25da854ae8d229ed26d8d20d701fd146fa0b1eb0af679181ed6de432dc3"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-438-2.png",
+      "sha256": "607b23e439f23805c0841a8e578e0a4c361f8f3ab9b2153bb858c44382e70b8d"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h4-438-3.png",
+      "sha256": "4d747e3694df71a94798ed5778ed607e4b19fb2818931470d97048a76eeb3f0f"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-456-1.png",
+      "sha256": "8ccd041d1942693e29a1b6615e09d2763ea5b2cc85cc2304e4eab7483b8de59e"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-456-2.png",
+      "sha256": "b5227e6be12d31c271d2f31aeaaa2728780239731f536edc9b43a087a0b56f89"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-456-3.png",
+      "sha256": "9f504e44ca657faec7520e931e0338270b418ea320694ba59afdd2f18e6a8ac7"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-472-1.png",
+      "sha256": "b91ae9d2ea38e342cb9ee1771f7fdbffffbe129a800f82be62023c0f8317eb3c"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-472-2.png",
+      "sha256": "be171f565328cdcf4364df3149f6e1cea1227b58b85a85ffb236588b2afb13d6"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-472-3.png",
+      "sha256": "1280c023bd84f637926d5fd4ed109ecf66e0ddc505d4b8a464f1ba7e8191903d"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h5-477-1.png",
+      "sha256": "b35c112ee9740641604e95fceecb90014ec186b4cd33a57c8a09b9bc2b231218"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-548-1.png",
+      "sha256": "3ed773161e8623e6a1340944da555435da1c84a8ef4ac09e4334f8a19611a79b"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-548-2.png",
+      "sha256": "3e6e76a1f80681b95564cfed5a4c1f5536bd7dcf7a272b5147573b621d9e51de"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-548-3.png",
+      "sha256": "62687ca2848d76a52ec97f2584b7b554ed0d36dbf4b531947a989d36a02cb5b0"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-550-1.png",
+      "sha256": "cdf18c885748d0994657ff83e9dcbb9cffced8a669b9800a6569097c2f43477a"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-550-2.png",
+      "sha256": "1810ed7566fe6fec91d5cdb16eb84beb9ae3dcc9689ba1f78c6ee79b0e02830c"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-550-3.png",
+      "sha256": "f97ad063b8ceba9bdb03ce9a8fb5fc90532d1722594ea6495fe8810ee3cae2a0"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-558-1.png",
+      "sha256": "dc1498eb9b30fa47193d33b2946c7df2706f1c93fc528f39fc417626ef73475e"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-558-2.png",
+      "sha256": "a4c13902333d2e881a2fca897dd867779c3727383c4dbd3664d441fbd028f342"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h7-558-3.png",
+      "sha256": "25d7f35cde8a44a0755a7a7800e0e9819c685c8c1e2a809635ee5139598aabad"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h8-408-1.png",
+      "sha256": "0add9a197cf4ddaa66cd2bf8e57fb5ea07fd23f524d7c0f96c2a6d9b523ed9d0"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h8-421-1.png",
+      "sha256": "24fe42e2ec4d26dd4dd7a4a90a29471640de50ae660a6b8d69f1137d4ebaae8d"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h9-347-1.png",
+      "sha256": "6e26b9ee1415a7d22851322b3d6535887897988a214787f22201fa6d191c768c"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h9-357-1.png",
+      "sha256": "377bbdbb9caaa9f0b5eb5fade54e3b2f6e186ccfccb0616200826dd425668eac"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h9-357-2.png",
+      "sha256": "2e447a870195f0c090bd14de875b19c9a02b0098f4e36d430492447e34d1b9ca"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h9-357-3.png",
+      "sha256": "bbbb0a2d7ba13ea7e71a81f92860db4542c93ac532cccca583237bc484318898"
+    },
+    {
+      "path": "HIO-data/images/ice-wc320-r00-h9-361-1.png",
+      "sha256": "e0fad795482581ce03dd4089c7204a60c859ce53f3dcc38d2b682012ef7dbb75"
+    },
+    {
+      "path": "xPangYa.BigPB.dll",
+      "sha256": "eba579918410b12ac732f523f675ef93994c4f9695bece00e490bcaaa1d0cdfb"
     }
   ]
 }
