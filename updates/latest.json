@@ -1,117 +1,117 @@
 {
   "channel": "xpangya-custom-v1",
-  "version": "1.0.3",
-  "notes": "Th\u00eam Wiz City 320+8: 39 pin, 88 \u1ea3nh ghi ch\u00fa s\u00e2n. T\u1ea1m kh\u00f3a c\u00e1c d\u00f2ng l\u1ed7i ngu\u1ed3n \u1edf H1-459 v\u00e0 v\u00f9ng g\u00f3c \u0111\u1ea3o th\u1ee9 t\u1ef1 \u1edf H15-548.",
+  "version": "1.0.4",
+  "notes": "S\u1eeda H5-456 Wiz City 320+8: m\u1edf l\u1ea1i 184 d\u00f2ng d\u1eef li\u1ec7u h\u1ee3p l\u1ec7. G\u00f3i g\u1ed3m \u0111\u1ea7y \u0111\u1ee7 39 pin v\u00e0 88 \u1ea3nh.",
   "parts": [
     {
-      "path": "updates/packages/1.0.3.part001.bin",
-      "sha256": "2649e13779141bddf51179fc86ee8fb68bdd1b11a5a15018ad85e2581426ef98",
+      "path": "updates/packages/1.0.4.part001.bin",
+      "sha256": "c778ae0827b65e96061a578775cf9df90a8287b7d879c80acc73604a63a45160",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part002.bin",
-      "sha256": "1a3d57b4e2c0c7af34952b230a5f486e40cd4317efd116f68962077b6203ca54",
+      "path": "updates/packages/1.0.4.part002.bin",
+      "sha256": "8670cdacd37a89ff4cd4252789c7c07e4aa12b5cc32e61e18a32357b3570b58a",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part003.bin",
-      "sha256": "9cb7677f9103d5f5a95311613e2d0a30ac586ca28e8398a2d1cdcf7a857d9793",
+      "path": "updates/packages/1.0.4.part003.bin",
+      "sha256": "3b7a6303dfe909cd0b67d3573caba5ce7a521ed2b2e3474f8baa6578d0df08aa",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part004.bin",
-      "sha256": "ce4ff3282025a403dbb51476a4221729d82b86d6a1fabcf3a3e582f47e22e26b",
+      "path": "updates/packages/1.0.4.part004.bin",
+      "sha256": "f174269dcf3181e3171df9716207b91eaa16ba30a8246eb959b8c630ecc2e142",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part005.bin",
-      "sha256": "20dbdbe4e02781253d525b32c76de27f9fcc7fa11fdb903c05e81830ddff6352",
+      "path": "updates/packages/1.0.4.part005.bin",
+      "sha256": "953d32fdbcd492183cfddf1d77a1f14c52766c29f1ddccd2830111e37d4eeaa1",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part006.bin",
-      "sha256": "12f5cd2415ab8c3f2d4501534de1b12f919e216fa0e0e75cc14e044ab7e28f17",
+      "path": "updates/packages/1.0.4.part006.bin",
+      "sha256": "28e397b2797ce580eed3627b2e5b27c855e2403c6f61485176abedb9413b1971",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part007.bin",
-      "sha256": "e506dfb8ff514af6a309bef1190f43b99931251808edc07a5a9f36d0c4dc66c4",
+      "path": "updates/packages/1.0.4.part007.bin",
+      "sha256": "12d7f6a48e147b6588fb4d8b3dc296232c0d60e5658575d8b184bf19fc7b5ffb",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part008.bin",
-      "sha256": "c00ca0ec3a59e318ecd6d195b0fef276d1cbc0cc8bfd3f7a54212ee1ccc31d53",
+      "path": "updates/packages/1.0.4.part008.bin",
+      "sha256": "97bf743e4165a39385957e9696e5c321b2d770634affd721dcf11e545171bce9",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part009.bin",
-      "sha256": "735b13bed6b750cb4b8a19ebc8d9287de58330f5ce6317dd062b5039a6c3b601",
+      "path": "updates/packages/1.0.4.part009.bin",
+      "sha256": "fca954f46de04a5191ff84310d26a29436fa920241b17cfa8f9f54d9eeaa2cf2",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part010.bin",
-      "sha256": "43a48c3eb5da83434beb8b13bfc460b9596b734a1f93179bb08624353e61d9ad",
+      "path": "updates/packages/1.0.4.part010.bin",
+      "sha256": "00dc1d0db03dff33ba603c3cec648c6a1709a6f9f3d6a1aab3f70609af4ffdc5",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part011.bin",
-      "sha256": "ccfb9f42e864da236a17a98bf12f2cf83225837b4c2dd6635022f039ed2a8ef4",
+      "path": "updates/packages/1.0.4.part011.bin",
+      "sha256": "fcb815ac2106580cfd9c18a8e75e746d872aec3546b08cd0af69360b020ba41b",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part012.bin",
-      "sha256": "154dd86e493b7da0ee998c2c05c3c1e242ef7de42c6139425d2cf4f6027d06f7",
+      "path": "updates/packages/1.0.4.part012.bin",
+      "sha256": "f81e8a6f258b1a279d615a14431cf50ce70ae54c2b10f1613580ff2226b73c65",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part013.bin",
-      "sha256": "591e422c39cd8767ef62ec44c31eb2a927d189592d4a0ec21a22e48d89b9b90b",
+      "path": "updates/packages/1.0.4.part013.bin",
+      "sha256": "680a467cfeebd091f3817f47bbad681635dddad3d7061e0db8634f17b63e8ccc",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part014.bin",
-      "sha256": "f343d092e0cb097f48312292982a7b439f7210540945c47f933ad072594d976b",
+      "path": "updates/packages/1.0.4.part014.bin",
+      "sha256": "727fc8c594e3a1447d7d17b6e68a90b0480250670a8539d84d77d3241a17ff31",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part015.bin",
-      "sha256": "dc0dfe4ba3913e4998f1c1faab1c52ad29058d64bd7223abbaf22dd9251ef3d2",
+      "path": "updates/packages/1.0.4.part015.bin",
+      "sha256": "cef94f7c2f59dc37823026e21fff8f47777036f65b550090cf14b5fb7450f470",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part016.bin",
-      "sha256": "f715b538c0cfe47e9d0756ada088cd6fe02c8e769f640f79cf308f0a81117846",
+      "path": "updates/packages/1.0.4.part016.bin",
+      "sha256": "c2cee8f59046d85b04c248961fe33cb056cab52d2f204913d2c4d096b0e2e8b0",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part017.bin",
-      "sha256": "960d6116b5f0a8690550669a7cda3e86f4cd3e0dead050e509dcd1a0d420c09e",
+      "path": "updates/packages/1.0.4.part017.bin",
+      "sha256": "9e266b5053e6ed5b4c7e41b88086c5d3391b024ae76907ad995743b01b9ba774",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part018.bin",
-      "sha256": "7dd1e095e7952b18ad795a11c3570df750a676c995c7d2d24e1afb9a629b7cca",
+      "path": "updates/packages/1.0.4.part018.bin",
+      "sha256": "f61218e2c001eac0ef812964735afb2af82648b60c667cbaf0d54d9244a2e7a7",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part019.bin",
-      "sha256": "59ebe4be10077242507f5a78e92227833d0fc7d4793b9f629286b103c545a7a0",
+      "path": "updates/packages/1.0.4.part019.bin",
+      "sha256": "5c9562b73530aaff77a11dda859fffffb43d8eadaf0394ebe7cb7e5d7446c60d",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part020.bin",
-      "sha256": "c1e3782554aec8be90f16adb7a831a64b547a32ac5042b88b44aa08f15a06d77",
+      "path": "updates/packages/1.0.4.part020.bin",
+      "sha256": "003d75f54cd672dad5aeec3d65b6ff8c3bae40d3d0ae7cf84ea56b1b6473b7cc",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part021.bin",
-      "sha256": "331590788b45d6a9400477f4041c0a319a719b47ec29bcdb61d0e183feffb4a3",
+      "path": "updates/packages/1.0.4.part021.bin",
+      "sha256": "105bd2c5e72ff1c2fdb64859c48fe71d5379c95cc24c4615f73c73373114c10d",
       "size": 4194304
     },
     {
-      "path": "updates/packages/1.0.3.part022.bin",
-      "sha256": "bf50da8a984a0b4050a9eca09a1b29947d605d69a10c64559be9c99a9a84e064",
-      "size": 1211633
+      "path": "updates/packages/1.0.4.part022.bin",
+      "sha256": "2c8da8331ff98b83be6f5f1fa98bbe0f15ebe533a1190a723f9ceacb4df572dd",
+      "size": 1211635
     }
   ],
   "files": [
@@ -157,7 +157,7 @@
     },
     {
       "path": "HIO-data/details-c900007-h1010.json",
-      "sha256": "fdbe3483c267291286e7473cc2303c723260441d35588a2be595ce6f0f9f77c6"
+      "sha256": "b25ef7f782fd3e344b9eef5f45ed103594eed85aeb9ba5722ee16349244ae89b"
     },
     {
       "path": "HIO-data/details-c900007-h1011.json",
