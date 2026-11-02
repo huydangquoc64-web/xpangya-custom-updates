@@ -1,0 +1,18 @@
+{
+  "channel": "xpangya-friends-v1",
+  "version": "1.0.0",
+  "notes": "Friends build: AutoFill distance, height, wind, angle and terrain. Manual ball slope only. No Backspin. Dedicated update channel.",
+  "parts": [
+    {
+      "path": "updates/packages/friends-1.0.0.part001.bin",
+      "size": 31570,
+      "sha256": "88f5c5cec38799fe877e44b7e94cac2b18c6e2c4a9b0cf87a74f50736bf8dcf3"
+    }
+  ],
+  "files": [
+    {
+      "path": "xPangYa.CustomUpdate.exe",
+      "sha256": "48d44a1393eb00425eaf18641aa591743766c352dbb2ec7f4c568e6cbdcee840"
+    }
+  ]
+}
