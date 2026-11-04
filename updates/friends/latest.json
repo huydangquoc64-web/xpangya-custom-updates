@@ -1,18 +1,18 @@
 {
   "channel": "xpangya-friends-v1",
-  "version": "1.0.1",
-  "notes": "Thêm nút tải/cập nhật toàn bộ HIO presets và ảnh từ GitHub, không cần token. Gói HIO chỉ chứa dữ liệu; Friends vẫn không có Backspin hay tự đọc ball slope.",
+  "version": "1.0.2",
+  "notes": "Them thanh tien trinh va toc do tai cho cap nhat Friends va HIO. Fill Slope va Backspin van khoa.",
   "parts": [
     {
-      "path": "updates/packages/friends-1.0.1.part001.bin",
-      "size": 32319,
-      "sha256": "f5f715f25baacaaf26515a6f4e99b1f44211fd877b084bb62e285e7029181e58"
+      "path": "updates/packages/friends-1.0.2.part001.bin",
+      "size": 33306,
+      "sha256": "3e42c7042aef328f764c39e928279a92ed1dc9a156b9e37479acfc2dd9769e99"
     }
   ],
   "files": [
     {
       "path": "xPangYa.CustomUpdate.exe",
-      "sha256": "08bc31976e8c8cca36d19b19e2bbfd43ba8bcf890e973a6cc97375cfec6e552f"
+      "sha256": "3951cf887ae192e5719d583c06dd61d68c7145ffd35e4188d86c089f6cfe0f51"
     }
   ]
 }

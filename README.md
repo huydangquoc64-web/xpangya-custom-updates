@@ -7,3 +7,7 @@ Từ bản 1.0.2: tự kiểm tra khi mở calculator và thông báo khi có b�
 Repo này chỉ chứa thông tin phiên bản, updater và các phần gói cập nhật; mã nguồn được quản lý riêng trong repo private. Bản 1.0.2 là gói cập nhật updater cho các máy đã có bộ calculator tùy chỉnh; không phải bộ cài mới hoàn toàn. Đặt bootstrap/xPangYa.CustomUpdate.exe cạnh xPangYa.exe nếu bản cũ chưa có menu cập nhật.
 
 Manifest: updates/latest.json. SHA-256 kiểm tra từng phần tải và file cài đặt. Không tự tải/cài bản cập nhật của tác giả.
+
+## xPangYa Friends
+
+Bản Friends dùng kênh `xpangya-friends-v1` với manifest `updates/friends/latest.json` và bộ khởi động `bootstrap/friends/xPangYa.CustomUpdate.exe`. Bản 1.0.2 hiển thị thanh tiến trình, dung lượng đã tải, phần trăm và tốc độ MB/s khi tải bản cập nhật hoặc gói HIO. Fill Slope và Backspin vẫn bị khóa trong bản Friends. Gói HIO chỉ cập nhật presets và ảnh.
